@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="" tvg-name="BG:NOVA TV HD" tvg-logo="https://i0.wp.com/resim.yayins.com/ulkeler/BULGARIA.png" group-title="Bulgaria",BG:NOVA TV HD
-http://213.91.179.28:8000/play/a03l
+https://e103-ts.cdn.bg/ntv/fls/ntv_2.stream/at=O0M9MTg1LjEzNC4yMjkuMTIzO0U9MTc4ODc5MDQ4NjtBPTE7Sz0zO1A9MDExMTA7Uz04MzRmZmYwOTQyMjEyMDAzMDQ1ZjJiMTI4OTkzM2ZhODRhNmI1YjYy/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="BG:NOVA FHD" tvg-logo="https://i0.wp.com/resim.yayins.com/ulkeler/BULGARIA.png" group-title="Bulgaria",BG:NOVA FHD
 http://superiptv21.com/live/cagrikelleci/ss5eBePbu/74dde610-eef0-4aa1-a6c9-81288e293860.m3u
 #EXTINF:-1 tvg-id="" tvg-name="BG:BTV FHD" tvg-logo="https://i0.wp.com/resim.yayins.com/ulkeler/BULGARIA.png" group-title="Bulgaria",BG:BTV FHD
